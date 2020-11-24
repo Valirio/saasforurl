@@ -1,2 +1,2 @@
 # saasforurl
-A simple mocro-saas for URL shortening
+A simple micro-saas for URL shortening
